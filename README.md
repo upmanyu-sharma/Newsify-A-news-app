@@ -1,1 +1,1 @@
-# Newsify---A-news-app
+# Newsify - A-news-app
